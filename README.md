@@ -1,5 +1,3 @@
-# picbed
-picbed repo
+转载备份
 
-
-个人图床用
+另：托管某个人用js于GitHub page
